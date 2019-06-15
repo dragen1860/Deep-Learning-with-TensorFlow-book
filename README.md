@@ -7,7 +7,12 @@ This repo. contains the source document for this book.
 
 英文名：Deep Learning with TensorFLow
 
+# 编写工具
+现在出版社只接受MS Word，所以大家还是用MS word 2013以后的版本编写吧，一章保存为一个doc文件。
+
 # 目录
+
+层级概念：部分->章->节->小点
 
 ## 第一部分：导论
 
