@@ -1,7 +1,10 @@
 # Deep-Learning-with-TensorFlow-book
 This repo. contains the source document for this book. 
 
+# 书名备选
+
 中文名：深度学习与TensorFlow 
+
 英文名：Deep Learning with TensorFLow
 
 # 目录
@@ -18,18 +21,53 @@ This repo. contains the source document for this book.
 ## 第二部分：深度学习基础
 
 * 回归问题
+由二元一次方程组引入，介绍怎么处理连续值预测问题，包含误差的构建、计算公式的构建、误差的优化等；并通过一个简单的回归实战让读者对连续值预测问题有一个初步的印象。
 
 * 分类问题
+介绍完连续值预测，进而介绍离散值预测。首先解决分类问题的误差构建，前向传播的构建；最后通过一个MNIST小实战介绍给读者深度学习的第一印象，为接下来介绍TensorFlow铺垫。
 
 * TensorFlow基础
+ * 数据类型
+ * 张量创建
+ * 索引与切片
+ * 维度变换
+ * Broadcasting
+ * 数学运算
+ * 前向传播实战
+ * 合并与切割
+ * 张量统计
+ * 张量排序
+ * 填充与复制
+ * 数据限幅
+ * 其他高阶操作
+ * 测试实战-准确度
+
+* 神经网络
+ * 全连接层
+ * 网络输出方式
+ * 误差函数
+ * 自动求导
+ * 优化方法
+ * MNIST全连接层实战
 
 * 反向传播算法
-
-## 第三部分：有监督学习
-
-* 全连接层
+ * 导数、梯度的概念
+ * 基本函数的梯度计算
+ * 激活函数的梯度
+ * 损失函数的梯度
+ * 感知机的梯度
+ * 链式法则
+ * 反向传播算法
+ * MNIST反向传播实战-张量模式
 
 * 过拟合
+ * 过拟合与欠拟合
+ * Train-val-test/交叉验证
+ * Regularization
+ * 学习率与动量
+ * Dropout, Early Stopping等
+
+## 第三部分：有监督学习
 
 * 卷积神经网络
 
@@ -65,6 +103,8 @@ This repo. contains the source document for this book.
 * DQN实战
 * PPO实战
 
+
+
 ## 第四部分：大型案例实战
 
 
@@ -79,8 +119,6 @@ This repo. contains the source document for this book.
 
 * 某个有趣的游戏RL实战
 
-* etc
+* 大家可以根据自己擅长添加几个
 
-# 参考资料
-- https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
