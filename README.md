@@ -80,3 +80,7 @@ This repo. contains the source document for this book.
 * 某个有趣的游戏RL实战
 
 * etc
+
+# 参考资料
+- https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+
