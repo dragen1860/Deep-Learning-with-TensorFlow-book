@@ -8,7 +8,7 @@ This repo. contains the source document for this book.
 英文名：Deep Learning with TensorFLow
 
 # 编写工具
-现在出版社只接受MS Word，所以大家还是用MS word 2013以后的版本编写吧，一章保存为一个docx文件。
+现在出版社只接受MS Word，所以大家还是用MS word 2013以后的版本编写吧，一章保存为一个docx文件。不定期push到各个子目录中，方便交流与备份。
 
 # 目录
 
