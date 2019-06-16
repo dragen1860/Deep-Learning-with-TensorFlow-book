@@ -128,3 +128,6 @@ This repo. contains the source document for this book.
 * 大家可以根据自己擅长添加几个
 
 
+# 参考资料
+
+书中大部分代码都可以参考这里，不必自己从新写： https://github.com/dragen1860/TensorFlow-2.x-Tutorials
