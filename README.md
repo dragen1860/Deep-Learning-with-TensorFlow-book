@@ -1,12 +1,10 @@
 # Deep-Learning-with-TensorFlow-book
 This repo. contains the source document for this book. 
 
-# TODO
+# Project Progress
+- [] 任务分配，完成时间：6-23
 
-- [] 任务分配
-| DDL  	| 完成时间 	| 龙良曲 	| 陈浩 	| 李国豪 	|
-|------	|----------	|--------	|------	|--------	|
-| 6-23 	|          	|        	|      	|        	|
+
 
 # 备选书名
 
