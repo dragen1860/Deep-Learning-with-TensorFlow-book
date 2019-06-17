@@ -2,7 +2,7 @@
 This repo. contains the source document for this book. 
 
 # Project Progress
-- [] 任务分配，完成时间：6-23
+- [ ]  任务分配，完成时间：6-23
 
 
 
