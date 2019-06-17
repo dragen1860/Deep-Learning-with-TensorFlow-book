@@ -1,6 +1,13 @@
 # Deep-Learning-with-TensorFlow-book
 This repo. contains the source document for this book. 
 
+# TODO
+
+- [] 任务分配
+| DDL  	| 完成时间 	| 龙良曲 	| 陈浩 	| 李国豪 	|
+|------	|----------	|--------	|------	|--------	|
+| 6-23 	|          	|        	|      	|        	|
+
 # 备选书名
 
 中文名：深度学习与TensorFlow 
