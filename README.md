@@ -1,5 +1,8 @@
 # Deep-Learning-with-TensorFlow-book
-This repo. contains the source document for this book. 
+
+合三人之力，让我们的名字永远铭刻在历史的封面上！
+
+拒绝失败！拒绝拖拉！
 
 # Project Progress
 - [ ]  任务分配，完成时间：6-23
