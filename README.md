@@ -160,4 +160,6 @@
 
 # 参考资料
 
-书中大部分代码都可以参考这里，不必自己从新写： https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+- 书中大部分代码都可以参考这里，不必自己写： https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+
+- [神经网络与深度学习](https://nndl.github.io/)
