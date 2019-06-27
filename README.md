@@ -37,7 +37,7 @@
 英文名：Deep Learning with TensorFLow
 
 # 编写工具
-现在出版社只接受MS Word，所以大家还是用MS word 2013以后的版本编写吧，一章保存为一个docx文件。不定期push到各个子目录中，方便交流与备份。
+现在出版社只接受MS Word，所以大家还是用**MS word 2013**以后的版本编写吧，一章保存为一个docx文件。不定期push到各个子目录中，方便交流与备份。
 
 # 目录
 
@@ -148,18 +148,17 @@
 ## 第四部分：大型案例实战
 
 
-
 * 迁移学习+自定义数据集实战
 
-* NLP某个案例实战
+* Attention->Transformer->GPT->BERT/GPT-2
 
 * 图卷积神经网络实战
 
 * DARTS网络结构搜索实战
 
-* 某个有趣的游戏RL实战
+* 某个有趣的游戏RL实战 
 
-* Attention+Transformer
+* RCNN->Fast RCNN->Faster RCNN->Mask RCNN
 
 * 等等
 
