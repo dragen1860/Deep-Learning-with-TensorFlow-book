@@ -30,9 +30,9 @@
 
 **目前先target@开源版本，等吸收社会各界意见后（约3月~半年时间）发行印刷版。**
 
-# 备选书名
+# 书名
 
-中文名：深度学习与TensorFlow 
+中文名：TensorFlow深度学习
 
 英文名：Deep Learning with TensorFLow
 
