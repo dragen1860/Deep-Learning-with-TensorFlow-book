@@ -18,6 +18,7 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 # 目录
 - 第1章 人工智能绪论
+
   1.1 人工智能  
   1.2 神经网络发展简史  
   1.3 深度学习特点  
@@ -35,7 +36,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   2.4 线性回归
   2.5 参考文献
 
-第3章 分类问题
+- 第3章 分类问题
+
   3.1 手写数字图片数据集
   3.2 模型构建
   3.3 误差计算
@@ -47,7 +49,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   3.9 小结
   3.10 参考文献
 
-第4章 TensorFlow基础
+- 第4章 TensorFlow基础
+
   4.1 数据类型
   4.2 数值精度
   4.3 待优化张量
@@ -60,7 +63,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   4.10 前向传播实战
   4.11 参考文献
 
-第5章 TensorFlow进阶
+- 第5章 TensorFlow进阶
+
   5.1 合并与分割
   5.2 数据统计
   5.3 张量比较
@@ -71,7 +75,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   5.8 MNIST测试实战
   5.9 参考文献
 
-第6章 神经网络
+- 第6章 神经网络
+
   6.1 感知机
   6.2 全连接层
   6.3 神经网络
@@ -82,7 +87,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   6.8 油耗预测实战
   6.9 参考文献
 
-第7章 反向传播算法
+- 第7章 反向传播算法
+
   7.1 导数与梯度
   7.2 导数常见性质
   7.3 激活函数导数
@@ -94,7 +100,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   7.9 反向传播算法实战
   7.10 参考文献
 
-第8章 Keras高层接口
+- 第8章 Keras高层接口
+
   8.1 常见功能模块
   8.2 模型装配、训练与测试
   8.3 模型保存与加载
@@ -104,7 +111,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   8.7 可视化
   8.8 参考文献
 
-第9章 过拟合
+- 第9章 过拟合
+
   9.1 模型的容量
   9.2 过拟合与欠拟合
   9.3 数据集划分
@@ -115,7 +123,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   9.8 过拟合问题实战
   9.9 参考文献
 
-第10章 卷积神经网络
+- 第10章 卷积神经网络
+
   10.1 全连接网络的问题
   10.2 卷积神经网络
   10.3 卷积层实现
@@ -132,7 +141,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   10.14 CIFAR10与ResNet18实战
   10.15 参考文献
 
-第11章 循环神经网络
+- 第11章 循环神经网络
+
   11.1 序列表示方法
   11.2 循环神经网络
   11.3 梯度传播
@@ -147,7 +157,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   11.12 预训练的词向量
   11.13 参考文献
 
-第12章 自编码器
+- 第12章 自编码器
+
   12.1 自编码器原理
   12.2 MNIST图片重建实战
   12.3 自编码器变种
@@ -155,7 +166,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   12.5 VAE实战
   12.6 参考文献
 
-第13章 生成对抗网络
+- 第13章 生成对抗网络
+
   13.1 博弈学习实例
   13.2 GAN原理
   13.3 DCGAN实战
@@ -166,7 +178,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   13.8 WGAN-GP实战
   13.9 参考文献
 
-第14章 强化学习
+- 第14章 强化学习
+
   14.1 先睹为快
   14.2 强化学习问题
   14.3 策略梯度方法
@@ -175,7 +188,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
   14.6 小结
   14.7 参考文献
 
-第15章 自定义数据集
+- 第15章 自定义数据集
+
   15.1 精灵宝可梦数据集
   15.2 自定义数据集加载流程
   15.3 宝可梦数据集实战
