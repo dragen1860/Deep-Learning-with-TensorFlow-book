@@ -22,8 +22,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 <p align="center">
   <img src="assets/0.4.目录-双排-1.jpg">
-  <img src="assets/0.4.目录-双排-2.png">
-  <img src="assets/0.4.目录-双排-3.png">
+  <img src="assets/0.4.目录-双排-2.jpg">
+  <img src="assets/0.4.目录-双排-3.jpg">
 </p>
 
 
