@@ -27,7 +27,9 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 </p>
 
 
+# 初学者交流QQ群
 
+人工智能101学院：295208768
 
 #	配套视频课程
 
