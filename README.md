@@ -2,7 +2,7 @@
 
 包含电子书，配套源代码等。
 
-![](assets/1.jpg)
-![](assets/2.png)
+<img src="assets/1.jpg" width="600">
+<img src="assets/2.png" width="600">
 
 # 反馈与交流
