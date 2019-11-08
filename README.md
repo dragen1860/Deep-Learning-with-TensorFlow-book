@@ -1,5 +1,7 @@
 # TensorFlow 2.0深度学习开源书
 
+基于TensorFlow 2.0正式版！！！
+
 包含电子书，配套源代码等。
 
 <p align="center">
