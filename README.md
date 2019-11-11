@@ -2,7 +2,7 @@
 
 基于TensorFlow 2.0正式版！！！
 
-包含电子书，配套源代码等。
+包含电子书，配套源代码等，时间仓促，源代码还没有整理完全。
 
 <p align="center">
   <img src="assets/1.jpg" align="center" width="600">
