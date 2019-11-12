@@ -18,6 +18,9 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 -	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
+# 介绍短视频
+<iframe src="//player.bilibili.com/player.html?aid=75331861&cid=128854935&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 # 目录
 
 <p align="center">
