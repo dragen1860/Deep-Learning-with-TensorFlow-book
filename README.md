@@ -39,7 +39,7 @@ https://www.bilibili.com/video/av75331861?from=search&seid=15021582016949033280
 
 #	配套视频课程
 
-收费，提供答疑等全方位服务，不喜勿喷。
+收费，适合零基础、希望快速入门AI的朋友，提供答疑等全方位服务，不喜勿喷。
 
 - 深度学习与TensorFlow入门实战
 https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c
