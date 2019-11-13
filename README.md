@@ -4,6 +4,9 @@
 
 包含电子书，配套源代码等，时间仓促，源代码还没有整理完全。
 
+Q.有人反映PDF文件打不开或者已损坏？
+A.文件上方有个“Download”按钮，下载即可，或者git clone下整个仓库。之所以显示打不开是因为Github在国外，连接不稳定就会提示打不开。
+
 <p align="center">
   <img src="assets/1.jpg" align="center" width="600">
   <img src="assets/2.png" align="center" width="600">
