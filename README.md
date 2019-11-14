@@ -20,6 +20,8 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 -	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
+- 使用本开源书本的任何内容作为非商业用途，请注明作者和Github链接
+
 # 介绍短视频
 
 https://www.bilibili.com/video/av75331861?from=search&seid=15021582016949033280
