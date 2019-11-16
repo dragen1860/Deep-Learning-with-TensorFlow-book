@@ -1,5 +1,6 @@
-import tensorflow as tf
-assert tf.__version__.startswith('1.')
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+assert tf.__version__.startswith('2.')
 
 # 1.创建计算图阶段
 # 创建2个输入端子，指定类型和名字
