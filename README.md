@@ -4,6 +4,7 @@
 
 包含电子书，配套源代码等，时间仓促，源代码还没有整理完全~~
 
+**Anyone interested in translating the Chinese version book into English is Welcome! pls contact me. We can co-author.**
 
 
 -  **本库在Github趋势日榜单全球排名第1！**
