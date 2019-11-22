@@ -30,7 +30,7 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 # 介绍短视频
 
-https://www.bilibili.com/video/av75331861?from=search&seid=15021582016949033280
+https://www.bilibili.com/video/av75331861
 
 # 目录
 
