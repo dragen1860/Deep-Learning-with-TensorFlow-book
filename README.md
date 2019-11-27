@@ -6,9 +6,9 @@
 
 **Anyone interested in translating the Chinese version book into English is Welcome! pls contact me. We can co-author.**
 
+-  **本库被“机器之心”，“量子位”等权威媒体报导！**
+-  **本库在Github趋势日榜单连续多天全球排名第1！**
 
--  **本库在Github趋势日榜单全球排名第1！**
--  **本库被“机器之心”，“量子位”等媒体报导！**
 
 >主页上方有个“Clone or Download”绿色按钮，下载整个仓库即可。之所以显示在线打不开是因为Github在国外，连接不稳定就会提示打不开。
 
@@ -47,7 +47,7 @@ https://www.bilibili.com/video/av75331861
 
 #	配套视频课程
 
-收费，适合零基础、希望快速入门AI的朋友，提供答疑等全方位服务。
+收费，适合零基础、希望快速入门AI的朋友，提供答疑、指导等全方位服务。
 
 - 深度学习与TensorFlow入门实战
 https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c
