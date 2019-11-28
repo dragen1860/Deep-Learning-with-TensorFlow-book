@@ -6,7 +6,7 @@
 
 **Anyone interested in translating the Chinese version book into English is Welcome! pls contact me. We can co-author.**
 
--  **本库被“机器之心”，“量子位”等权威媒体报导！**
+-  **本书被“机器之心”，“量子位”等权威媒体报导！**
 -  **本库在Github趋势日榜单连续多天全球排名第1！**
 
 
