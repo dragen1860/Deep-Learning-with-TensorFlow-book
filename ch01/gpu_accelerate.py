@@ -20,6 +20,8 @@ cpu_data = []
 gpu_data = []
 for n in range(9):
 	n = 10**n
+	# 声明全局变量cpu_a,cpu_b,gpu_a,gpu_b解决函数cpu_run()和gpu_run()变量未定义
+	global cpu_a, cpu_b, gpu_a, gpu_b
 	# 创建在CPU上运算的2个矩阵
 	with tf.device('/cpu:0'):
 		cpu_a = tf.random.normal([1, n])
