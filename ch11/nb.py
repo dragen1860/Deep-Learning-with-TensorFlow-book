@@ -16,7 +16,7 @@ out
 #%%
 net.embeddings
 net.embeddings.trainable
-net.trainable = Flase
+net.trainable = False
 #%%
 # 从预训练模型中加载词向量表
 embed_glove = load_embed('glove.6B.50d.txt')
