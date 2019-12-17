@@ -2,7 +2,7 @@
 import tensorflow as tf 
 from    tensorflow.keras import layers
 
-pip install -U scikit-learn
+# pip install -U scikit-learn
 
 #%%
 # 添加dropout操作
