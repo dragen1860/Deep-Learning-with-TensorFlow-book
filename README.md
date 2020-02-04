@@ -4,7 +4,7 @@
 
 包含电子书，配套源代码等，时间仓促，源代码还没有整理完全~~
 
-**Anyone interested in translating the Chinese version book into English is Welcome! pls contact me. We can co-author.**
+**有愿意将本书转化为PyTorch版本的朋友可以邮件联系我，可以合著出版！**
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
 -  **本库在Github趋势日榜单连续多天全球排名第1！**
