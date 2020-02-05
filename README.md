@@ -51,9 +51,7 @@ https://www.bilibili.com/video/av75331861
 
 收费，适合零基础、希望快速入门AI的朋友，提供答疑、指导等全方位服务。
 
-- 深度学习与TensorFlow入门实战
-https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c
-- 深度学习与PyTorch入门实战
-https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1208894818&_trace_c_p_k2_=8d1b10e04bd34d69855bb71da65b0549
+- [深度学习与TensorFlow入门实战](https://study.163.com/course/courseMain.htm?courseId=1209092816)
+- [深度学习与PyTorch入门实战](https://study.163.com/course/courseMain.htm?courseId=1208894818)
 
 
