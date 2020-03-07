@@ -4,7 +4,6 @@
 
 包含电子书，配套源代码等，时间仓促，源代码还没有整理完全~~
 
-网友贡献的Notebook版代码：https://github.com/Relph1119/deeplearning-with-tensorflow-notes
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
 -  **本库在Github趋势日榜单连续多天全球排名第1！**
@@ -56,3 +55,6 @@ https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&cour
 https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1208894818&_trace_c_p_k2_=8d1b10e04bd34d69855bb71da65b0549
 
 
+# 其他
+
+网友贡献的Notebook版代码：https://github.com/Relph1119/deeplearning-with-tensorflow-notes
