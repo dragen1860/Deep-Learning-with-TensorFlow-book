@@ -4,13 +4,12 @@
 
 包含电子书，配套源代码等，时间仓促，源代码还没有整理完全~~
 
-**有愿意将本书转化为PyTorch版本的朋友可以邮件联系我，可以合著出版！**
+网友贡献的Notebook版代码：https://github.com/Relph1119/deeplearning-with-tensorflow-notes
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
 -  **本库在Github趋势日榜单连续多天全球排名第1！**
 
 
->主页上方有个“Clone or Download”绿色按钮，下载整个仓库即可。之所以显示在线打不开是因为Github在国外，连接不稳定就会提示打不开。
 
 <p align="center">
   <img src="assets/1.jpg" align="center" width="600">
