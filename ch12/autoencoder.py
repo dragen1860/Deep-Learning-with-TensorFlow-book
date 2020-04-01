@@ -111,8 +111,7 @@ for epoch in range(100):
         x_hat = tf.reshape(x_hat, [-1, 28, 28])
 
         # [b, 28, 28] => [2b, 28, 28]
-        x_concat = tf.concat([x, x_hat], axis=0)
-        x_concat = x_hat
+        x_concat = tf.concat([x[:50], x_hat[:50]], axis=0)
         x_concat = x_concat.numpy() * 255.
         x_concat = x_concat.astype(np.uint8)
         save_images(x_concat, 'ae_images/rec_epoch_%d.png'%epoch)

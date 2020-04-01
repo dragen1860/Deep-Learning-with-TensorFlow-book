@@ -102,7 +102,7 @@ model = VAE()
 model.build(input_shape=(4, 784))
 optimizer = tf.optimizers.Adam(lr)
 
-for epoch in range(1000):
+for epoch in range(100):
 
     for step, x in enumerate(train_db):
 
