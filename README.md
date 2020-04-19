@@ -2,7 +2,7 @@
 
 基于TensorFlow 2.0正式版！！！
 
-包含电子书，配套源代码等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)。
+包含电子书，配套源代码等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
 
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
