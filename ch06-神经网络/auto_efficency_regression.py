@@ -3,6 +3,9 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 
 import pathlib
 import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
@@ -13,7 +16,6 @@ from tensorflow import keras
 from tensorflow.keras import layers, losses
 
 print(tf.__version__)
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 
 # 在线下载汽车效能数据集

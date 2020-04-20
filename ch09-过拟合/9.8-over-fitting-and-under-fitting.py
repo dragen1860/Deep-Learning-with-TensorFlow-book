@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-# encoding: utf-8
-"""
-@author: HuRuiFeng
-@file: 9.8-over-fitting-and-under-fitting.py
-@time: 2020/2/25 21:14
-@desc: 9.8 过拟合问题实战的代码
-       from mpl_toolkits.mplot3d import Axes3D 这个必须添加，解决3d报错问题
-"""
 
 import matplotlib.pyplot as plt
 # 导入数据集生成工具
