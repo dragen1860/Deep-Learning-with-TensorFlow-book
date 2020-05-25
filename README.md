@@ -1,11 +1,12 @@
-# TensorFlow 2.0深度学习开源书
+# TensorFlow 2.0深度学习开源书(龙书)
 
-基于TensorFlow 2.0正式版！！！
+基于TensorFlow 2.0正式版！！！理论与实战结合！！！
 
-包含电子书，配套源代码等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
+本仓库包含pdf电子书、配套源代码、配套课件等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
 
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
+
 -  **本库在Github趋势日榜单连续多天全球排名第1！**
 
 
@@ -24,11 +25,18 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 -	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
-- 使用本书本的任何内容时(仅限非商业用途)，请注明作者和Github链接
+- 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
 
-# 介绍短视频
+# “龙书”系列生态
 
-https://www.bilibili.com/video/av75331861
+- [介绍短片](https://www.bilibili.com/video/av75331861)
+
+- [English Version](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book-EN)
+
+- [视频课程](https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c)
+
+- [PyTorch版本](https://github.com/dragen1860/Deep-Learning-with-PyTorch-book)
+
 
 # 目录
 
