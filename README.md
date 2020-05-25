@@ -1,6 +1,6 @@
 # TensorFlow 2.0深度学习开源书(龙书)
 
-基于TensorFlow 2.0正式版！！！理论与实战结合！！！
+基于TensorFlow 2.0正式版！！！理论与实战结合,适合入门学习！！！
 
 本仓库包含pdf电子书、配套源代码、配套课件等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
 
@@ -27,7 +27,7 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 - 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
 
-# “龙书”系列生态
+# “龙书”生态系统
 
 - [介绍短片](https://www.bilibili.com/video/av75331861)
 
