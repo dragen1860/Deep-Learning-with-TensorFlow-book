@@ -33,9 +33,9 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 - [English Version](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book-EN)
 
-- [视频课程](https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c)
+- [TensorFlow视频课程](https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c)
 
-- [PyTorch版本](https://github.com/dragen1860/Deep-Learning-with-PyTorch-book)
+- [PyTorch深度学习开源书](https://github.com/dragen1860/Deep-Learning-with-PyTorch-book)
 
 
 # 目录
