@@ -3,9 +3,10 @@
 基于TensorFlow 2.0正式版！！！
 理论与实战结合，非常适合入门学习！！！
 
-[百度网盘 提取码：juqs](https://pan.baidu.com/s/1GgQjhDqSgSfjxqBMsE3RDQ)
 
-本仓库包含pdf电子书、配套源代码、配套课件等。部分代码替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
+本仓库包含pdf电子书、配套源代码、配套课件等。部分代码已替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
+
+[百度网盘下载](https://pan.baidu.com/s/1GgQjhDqSgSfjxqBMsE3RDQ)  提取码：juqs
 
 
 -  **本书被“机器之心”，“量子位”等权威媒体报导！**
@@ -21,14 +22,14 @@
 
 -	提交错误或者修改等反馈意见，请在Github [Issues](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/issues)页面提交
 
--	更多TensorFlow 2.0 实战案例在[这里](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
-
-
 -	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
 - 高校老师索取PPT原素材等教案，请邮箱联系，并详注院校课程等信息，我们准备好了会第一时间邮件回复
 
 - 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
+
+
+
 
 # “龙书”生态系统
 
@@ -39,6 +40,8 @@
 - [TensorFlow视频课程](https://study.163.com/course/courseMain.htm?share=2&shareId=480000001847407&courseId=1209092816&_trace_c_p_k2_=9e74eb6f891d47cfaa6f00b5cb5f617c)
 
 - [PyTorch深度学习开源书](https://github.com/dragen1860/Deep-Learning-with-PyTorch-book)
+
+-	更多TensorFlow 2实战案例在[这里](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 
 
 # 简要目录
