@@ -16,14 +16,14 @@
   <img src="assets/2.png" align="center" width="600">
 </p>
 
--	提交错误或者修改等反馈意见，请在Github Issues页面提交：
+-	提交错误或者修改等反馈意见，请在Github [Issues](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/issues)页面提交
 
-https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/issues
+-	更多TensorFlow 2.0 实战案例在[这里](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 
--	更多TensorFlow 2.0 实战案例：
-https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 
 -	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
+
+- 高校老师索取PPT原素材等教案，请邮箱联系，并详注院校课程等信息，我们准备好了会第一时间邮件回复
 
 - 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
 
@@ -38,7 +38,7 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 - [PyTorch深度学习开源书](https://github.com/dragen1860/Deep-Learning-with-PyTorch-book)
 
 
-# 目录
+# 简要目录
 
 <p align="center">
   <img src="assets/0.4.目录-双排-1.jpg">
@@ -52,6 +52,7 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 - 人工智能101学院-免费2群：535205236
 
 - 人工智能101学院-免费1群：295208768(已满)
+
 
 #	配套视频课程
 
