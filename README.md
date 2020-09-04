@@ -3,6 +3,8 @@
 基于TensorFlow 2.0正式版！！！
 理论与实战结合，非常适合入门学习！！！
 
+- **[纸质书购买链接：京东](https://item.jd.com/12954866.html)** 
+- **[纸质书购买链接：淘宝](https://detail.tmall.com/item.htm?spm=a230r.1.14.16.18b460abi8w8jJ&id=625801924474&ns=1&abbucket=9)**
 
 本仓库包含pdf电子书、配套源代码、配套课件等。部分代码已替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
 
@@ -32,6 +34,8 @@
 
 
 # “龙书”生态系统
+
+- [纸质书/实体书](https://item.jd.com/12954866.html)
 
 - [介绍短片](https://www.bilibili.com/video/av75331861)
 
