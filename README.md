@@ -35,7 +35,7 @@
 
 以下高校已采用本书作为专业教材或参考书：
 
-| [1](assets/xbgydx.jpg)  | [2](assets/hngydx.jpg)  |   |   |   |
+| ！[1](assets/xbgydx.jpg)  | ！[2](assets/hngydx.jpg)  |   |   |   |
 |---|---|---|---|---|
 |    |    |   |   |   |
 
