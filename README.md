@@ -18,15 +18,15 @@
 
 
 <p align="center">
-  <img src="assets/1.jpg" align="center" width="600">
-  <img src="assets/2.png" align="center" width="600">
+  <img src="assets/book-cover.png" align="center" width="600">
+  <!-- <img src="assets/1.png" align="center" width="600"> -->
 </p>
 
--	提交错误或者修改等反馈意见，请在Github [Issues](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/issues)页面提交
+- 提交错误或者修改等反馈意见，请在Github [Issues](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book/issues)页面提交
 
--	联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
+- 联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
-- 高校老师索取PPT原素材等教案，请邮箱联系，并详注院校课程等信息，我们准备好了会第一时间邮件回复
+-  高校老师索取PPT原素材等教案，请邮箱联系，并详注院校课程等信息，一般2天内发送邮件回复
 
 - 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
 
@@ -35,9 +35,9 @@
 
 以下高校已采用本书作为专业教材或参考书：
 
-|   |   |   |   |   |
+| [1](assets/xbgydx.jpg)  | [2](assets/hngydx.jpg)  |   |   |   |
 |---|---|---|---|---|
-|  1 |  2 |   |   |   |
+|    |    |   |   |   |
 
 
 # “龙书”生态系统
