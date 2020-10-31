@@ -26,7 +26,7 @@
 
 - 联系邮箱(一般问题建议Github issues交流)：liangqu.long AT gmail.com
 
--  高校老师索取PPT原素材等教案，请邮箱联系，并详注院校课程等信息，一般2天内发送邮件回复
+-  **高校老师索取PPT原素材**等教案，请邮箱联系，并详注院校课程等信息，一般3天内发送邮件回复
 
 - 使用本书本的任何内容时(**仅限非商业用途**)，请注明作者和Github链接
 
@@ -37,7 +37,7 @@
 
 | <img src="assets/xbgydx.jpg" width="250" height="250"> | <img src="assets/hnxxxy.jpg" width="250" height="250">  |   |   |   |
 |---|---|---|---|---|
-|    |    |   |   |   |
+|  <img src="https://p1.ssl.qhimg.com/dmsmty/1080_1041_/t01e0c5a63801c79fd2.jpg" width="250" height="250">  |    |   |   |   |
 
 
 # “龙书”生态系统
