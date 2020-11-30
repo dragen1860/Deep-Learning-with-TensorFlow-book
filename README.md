@@ -35,7 +35,7 @@
 
 以下高校已采用本书作为专业教材或参考资料，欢迎更多高校加入！发送邮件即可索取PPT教案。
 
-| <img src="assets/xbgydx.jpg" width="250" height="250"> | <img src="assets/hnxxxy.jpg" width="250" height="250">  |   |   |   |
+| <img src="assets/dzkjdx.jpg" width="250" height="250"> | <img src="assets/hnxxxy.jpg" width="250" height="250">  | <img src="assets/xbgydx.jpg" width="250" height="250">  |   |   |
 |---|---|---|---|---|
 |  <img src="https://p1.ssl.qhimg.com/dmsmty/1080_1041_/t01e0c5a63801c79fd2.jpg" width="250" height="250">  |  <img src="assets/dglg.jpg" width="250" height="250">  |   |   |   |
 
