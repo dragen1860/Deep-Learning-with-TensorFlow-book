@@ -6,6 +6,7 @@ import seaborn as sns
 from sklearn.datasets import make_moons
 from sklearn.model_selection import train_test_split
 from tensorflow.keras import layers, Sequential, regularizers
+from tensorflow.keras.utils import plot_model
 from mpl_toolkits.mplot3d import Axes3D
 
 plt.rcParams['font.size'] = 16
@@ -110,7 +111,7 @@ def dropout_influence(X_train, y_train):
         for _ in range(5):
             model.add(layers.Dense(64, activation='relu'))
         # 添加 n 个 Dropout 层
-        if counter < n:
+        while counter < n:
             counter += 1
             model.add(layers.Dropout(rate=0.5))
 
@@ -131,6 +132,8 @@ def dropout_influence(X_train, y_train):
         title = "无Dropout层" if n == 0 else "{0}层 Dropout层".format(n)
         file = "Dropout_%i.png" % n
         make_plot(X_train, y_train, title, file, XX, YY, preds, output_dir=OUTPUT_DIR + '/dropout')
+        modelfile = "dropout_model_%i.png" % n
+        plot_model(model, OUTPUT_DIR + "/dropout/" + modelfile, show_shapes=True)
 
 
 def build_model_with_regularization(_lambda):
