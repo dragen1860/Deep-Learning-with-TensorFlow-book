@@ -37,7 +37,7 @@
 
 | <img src="assets/dzkjdx.jpg" width="260" height="250"> | <img src="assets/xbgydx.jpg" width="250" height="250">  | <img src="assets/hnxxxy.jpg" width="250" height="250">  |   |   |
 |---|---|---|---|---|
-|  <img src="https://p1.ssl.qhimg.com/dmsmty/1080_1041_/t01e0c5a63801c79fd2.jpg" width="250" height="250">  |  <img src="assets/dglg.jpg" width="250" height="250">  |   |   |   |<img src="https://upload.wikimedia.org/wikipedia/zh/a/a8/Scnu_logo.png" width="250" height="250"> | | | |
+|  <img src="https://p1.ssl.qhimg.com/dmsmty/1080_1041_/t01e0c5a63801c79fd2.jpg" width="250" height="250">  |  <img src="assets/dglg.jpg" width="250" height="250">  |   |   |   |<img src="https://upload.wikimedia.org/wikipedia/zh/a/a8/Scnu_logo.png" width="250" height="250"> | 北京科技职业学院| | |
 
 
 
