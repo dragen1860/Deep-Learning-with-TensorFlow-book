@@ -9,6 +9,7 @@
 本仓库包含pdf电子书、配套源代码、配套课件等。部分代码已替换为Ipython Notebook形式，感谢这位[童鞋](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)的整理。
 
 开源电子版pdf还可以从[百度网盘下载](https://pan.baidu.com/s/1GgQjhDqSgSfjxqBMsE3RDQ)  提取码：juqs
+感谢云城不及粒火童鞋提供的书签版pdf。
 
 
 -  **本书被“机器之心”，“量子位”等权威媒体报道！**
